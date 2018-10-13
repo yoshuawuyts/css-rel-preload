@@ -1,0 +1,9 @@
+[package]
+name = "css-rel-preload"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/yoshuawuyts/css-rel-preload"
+documentation = "https://docs.rs/css-rel-preload"
+description = "LoadCSS's cssrelpreload.js file"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+readme = "README.md"
