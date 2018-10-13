@@ -29,11 +29,6 @@ let res = html_index::Builder::new()
 println!("{}", res);
 ```
 
-## References
-- https://caniuse.com/#feat=link-rel-preload
-- https://github.com/filamentgroup/loadCSS
-- https://cdnjs.com/libraries/loadCSS
-
 ## Installation
 ```sh
 $ cargo add css-rel-preload
@@ -51,7 +46,9 @@ look at some of these issues:
 - [Issues labeled "help wanted"][help-wanted]
 
 ## References
-None.
+- https://caniuse.com/#feat=link-rel-preload
+- https://github.com/filamentgroup/loadCSS
+- https://cdnjs.com/libraries/loadCSS
 
 ## License
 [MIT](./LICENSE-MIT) OR [Apache-2.0](./LICENSE-APACHE)
